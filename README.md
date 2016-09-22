@@ -18,4 +18,4 @@ This is an unofficial fan project which may or may not have input from the Stump
 4. Right-click the Modpack, select 'Edit Instance' and navigate to 'Settings'.
 5. Ensure that you have allocated at least 4GB of memory to the instance.
 6. Ensure that you are running the latest version of Java 8.
-7. Enjoy!
+7. Enjoy!!
